@@ -1,53 +1,42 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Rd's GitHub Stats" />
-</p>
+<div align="center" width="50">
 
-<h1 align="center">Hi 👋, I'm Rd</h1>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="#" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="#" alt="Workspace"  width="40%"/><br> 
 
-<p align="center">
-  <b>Mechatronics Engineering Graduate | Developer | Robotics & Embedded Systems Enthusiast</b>
-</p>
+<details>
+<p><strong> <summary>  Busy coding & tinkering with hardware 🎧   </summary> </strong></p>
 
----
+<!-- You can embed a music widget or skip this if you don't use Spotify -->
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
 
-### About Me
+</details>
 
-- 🎓 Graduated in Mechatronics Engineering  
-- 💻 Developed projects combining C++ programming and embedded hardware  
-- 🤖 Built an automated water level system with Arduino, ultrasonic sensors, and PID control  
-- 🦾 Created a 3D interactive robotic arm with Python and inverse kinematics  
-- 🔧 Passionate about bridging software and hardware to solve real-world problems  
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Rd-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM_HANDLE) <br>
+</div>
 
----
+<hr></hr>
 
-### 🛠 Skills
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=flat)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-| Languages       | Tools & Platforms         | Hardware & Embedded Systems         |
-|-----------------|--------------------------|------------------------------------|
-| C++, Python     | Visual Studio, VSCode    | Arduino, Raspberry Pi, Sensors     |
-| MATLAB          | Git, GitHub              | Ultrasonic Sensor (HC-SR04), Relays|
-|                 | Proteus, Arduino IDE     | Motorized Valves, PID Controllers  |
+```cpp
+// tools_I_use organized
 
----
-
-### 📂 Projects
-
-- **Water Level Monitoring System**  
-  Ultrasonic sensor + Arduino + Relay + PID for automated water management
-
-- **3D Robotic Arm**  
-  Python-based arm control with inverse kinematics and real-time interaction
-
-- **Banking Management System**  
-  C++ console app with user permissions and file-based data management
----
-
-### ⚡ Fun fact
-
-*“Practical skills and real projects > theory alone.”*
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "C++", "Python", "MATLAB" },
+    "Hardware" : { "Arduino", "Ultrasonic Sensor", "Relay", "Ball Valve", "IR Sensor" },
+    "Software" : { "VSCode", "Proteus", "Arduino IDE" },
+    "Other" : { "Git", "Linux", "PID Controller", "File I/O" }
+  };
+}
