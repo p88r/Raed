@@ -40,15 +40,6 @@
 
 - **Banking Management System**  
   C++ console app with user permissions and file-based data management
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://yourwebsite.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
 ---
 
 ### ⚡ Fun fact
